@@ -9,7 +9,7 @@ import time
 import pathlib
 from datetime import datetime
 
-from tomo_edd import config
+from tomo_edd import config, __version__
 from tomo_edd import log
 
 
